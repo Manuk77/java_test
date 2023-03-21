@@ -1,0 +1,7 @@
+*.class
+*.xml
+*.log
+*.iml
+*.idea
+*.index
+*.jar
